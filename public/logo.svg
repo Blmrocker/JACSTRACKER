@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: bold 200px serif; }
+    .subtext { font: bold 80px sans-serif; }
+    .red { fill: #dc2626; }
+    .black { fill: #000000; }
+  </style>
+  <text x="50" y="200" class="text black">JAC'S</text>
+  <path class="red" d="M600 50 L620 90 L580 90 Z" />
+  <text x="50" y="280" class="subtext black">FIRE PROTECTION LLC</text>
+  <path class="red" d="M1000 50 C1000 50, 1050 100, 1000 150 L1050 200 L950 200 L1000 150 C1000 150, 950 100, 1000 50" />
+</svg>
